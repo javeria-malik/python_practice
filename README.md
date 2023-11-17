@@ -1,7 +1,7 @@
 # python_practice
 # Python Basics Practice Repository
 
-This repository contains all my practice files for Python basics. It includes exercises, examples, and small projects that helped me learn Python programming.
+This repository contains all my practice files for Python basics. It includes exercises, examples, and small projects that helped me learn Python programming...
 
 ## Contents
 
